@@ -12,8 +12,8 @@ This app is one of the two projects required for [Udacity's React Nanodegree pro
 Clone the repository, change directories, and use NPM to install the dependencies.
 
 ```bash
-$ git clone https://github.com/khmais93/reactnd-project-myreads.git
-$ cd reactnd-project-myreads
+$ git clone https://github.com/khmais93/myreads-app.git
+$ cd myreads-app
 $ npm install
 ```
 
