@@ -5,8 +5,6 @@ Using the provided Books API, you’ll search for books and add them to a booksh
 
 This app is one of the two projects required for [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
-- **Live Demo:** [https://khmais93.github.io/myreads-app](https://khmais93.github.io/myreads-app)
-
 ## Installation
 
 Clone the repository, change directories, and use NPM to install the dependencies.
